@@ -1,0 +1,4 @@
+# frondend/.dockerignore
+node_modules
+build
+.env
